@@ -1,0 +1,133 @@
+IDEA
+- story board like?
+- character board like?
+- main page is whatever im working on
+- include companies/organizations I support
+- life story section??
+
+--------------------------------------------------------------
+Name
+- David Baik
+
+Nationality
+- korean canadian
+
+Current address
+- 538 Hartley Terrace
+- Saskatoon. SK. Canada
+- S7T 0E6
+
+Personal mobile
+- 306.262.0223
+
+Personal email
+- davidbaik1001@gmail.com
+
+Work/School email(Primary)
+- dab904@usask.ca
+
+LinkedIn
+- www.linkedin.com/in/david-baik-5318b51bb
+--------------------------------------------------------------
+
+Current position
+- Student at Usask
+- exec(treasurer) for hustkie formula racing team
+- bartender at winds edge
+- Reaserch student at Usask
+--------------------------------------------------------------
+
+Education
+University of Saskatchewan, Saskatoon - College of Engineering(2020 - Present)
+- Computer Engineering and Computer Science Dual Degree Program (B.E. and BSc: 5 years)
+
+Walter Murray Collegiate Institute(Advanced Program), Saskatoon(2015 - 2019)
+- Selected based on national standardized test to join SAGE program(Saskatoon
+Academically Gifted Education)
+- Enrolled in numerous advanced studies in english, social studies, mathematics,
+and natural sciences
+
+
+Jobs
+- news paper delivery
+- independent
+	- Cashier
+- petland
+	- Stock
+	- Reorganize all store products
+- contract work to refurnish rental
+    - painting
+    - flooring
+- grainfields
+	- Server
+	- Host
+- blackfox(2021 June - 2021 sept)
+	- bartender
+- barn at winds edge(2021 June - Present)
+	- bartender
+- Research Student at Usask(2022 May - 2022 Sept)
+	- Effects of radiation on RF Module(ADALM Pluto)
+		- Transmit and Receive with MATLAB
+		- Frequency and Amplitude changes
+		- BER Changes?
+	- Effects of radiation on Wireless Charging Module
+	- Effects of radiation on Linear Amplifier
+	- Gammacell Radiation Training
+	- PCB Design Training
+
+Awards/Achievements
+- sask korean assoc scholarship
+- grade 9 honor
+- grade 10 honor
+- grade 11 high honor
+- grade 12 high honor
+- 2020-2021 usask entrance scholarship
+- 2020-2021 UFSA Scholarship
+- 2020/2021 deans list
+- 2021-2020 natori scholarship(awarded to second place student in all engineering discipline)
+- 2021 Nov Sask Eng Comp(SEC) 2021 coding competition winner
+- 2021 Jan WEC coding compeition 3rd place
+- 2022 NSERC USRA
+- 2021/2022 deans list
+
+
+Extra-Curr Experiences
+- 2021 Nov SEC
+- 2022 Jan WEC
+- School robotics club(2008)
+- Link Crew Leader(2016-2017)
+First string receiver (2018) and first string defensive back (2019) on Walter
+Murray Football Team
+Membered in basketball clubs since the age of 10. Played on Walter Murray
+Basketball Team (2015 - 2018) and University of Saskatchewan Junior Huskies
+(2017)
+- 2021-present Huskie Formula Racing team
+	- market strategy top 10 place in 141 teams preliminary
+	- market strategy 8th place in 99 teams at FSAE Michigan
+
+Volunteering
+- Korean Canadian Research(2020)
+- Korean Saskatoon School
+- Usask AES Notetaking(2022(Jan-April))
+- care home volunteering
+
+Interests
+- basketball
+- music
+- coding
+- games
+- PC hardware
+- Drones
+
+
+Skills
+- python(most proficient)
+- html
+- CSS
+- JS(have not used in a while)
+- breadboard circuitry
+- Oscilloscope analysis using ADALM2000/Scopy
+- MATLAB
+- Regex
+- PCB Design
+- Signal Generator/Spectrum Analysis(basic)
